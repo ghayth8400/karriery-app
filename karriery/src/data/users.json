@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "admin_001",
+      "name": "Administrator",
+      "email": "admin",
+      "password": "admin",
+      "role": "admin",
+      "isGoogleUser": false,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "lastLogin": "2024-01-01T00:00:00.000Z",
+      "profile": {
+        "title": "System Administrator",
+        "company": "Karriery Platform",
+        "location": "Global",
+        "experience": "10+ years",
+        "bio": "System administrator with full platform access and management capabilities.",
+        "skills": ["System Administration", "Platform Management", "User Management", "Security"],
+        "education": [
+          {
+            "degree": "Master of Information Technology",
+            "school": "Administrative Institute",
+            "year": "2020"
+          }
+        ],
+        "experience_details": [
+          {
+            "title": "System Administrator",
+            "company": "Karriery Platform",
+            "period": "2020 - Present",
+            "description": "Managing platform infrastructure, user accounts, and system security"
+          }
+        ],
+        "avatar": null,
+        "phone": "",
+        "website": "",
+        "linkedin": "",
+        "github": "",
+        "twitter": ""
+      },
+      "preferences": {
+        "theme": "light",
+        "language": "en",
+        "notifications": {
+          "email": true,
+          "push": true,
+          "sms": false
+        },
+        "privacy": {
+          "profileVisibility": "public",
+          "showEmail": true,
+          "showPhone": false
+        }
+      },
+      "status": "active",
+      "notifications": []
+    }
+  ],
+  "lastUpdated": "2024-01-01T00:00:00.000Z"
+}
